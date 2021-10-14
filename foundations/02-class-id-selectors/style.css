@@ -1,0 +1,18 @@
+#div1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.p1,
+.p3,
+.p5 {
+    background-color:rgb(230, 161, 181);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p3 {
+    font-size: 24px;
+}
